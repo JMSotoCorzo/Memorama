@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="#00CC00"/>
+    <stroke android:width="8dp"
+        android:color="#000066" />
+    <size android:width="@dimen/card_default_width"
+        android:height="@dimen/card_default_height"/>
+</shape>

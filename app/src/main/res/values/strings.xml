@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Memorama</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome"></string>
+
+
+    <string name="create_user_header_label">Create you user account</string>
+    <string name="login_user_header_label">Login with your account</string>
+    <string name="user_label">User name:</string>
+    <string name="user_hint">Type your user name</string>
+    <string name="password_label">Password:</string>
+    <string name="password_hint">Type your password</string>
+    <string name="confirm_label">Confirm:</string>
+    <string name="confirm_hint">Confirm your password</string>
+    <string name="title_activity_loged_options">LogedOptionsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="timerVal">00:00</string>
+</resources>
